@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\greedy_method">
+      <UniqueIdentifier>{b817c99d-2cee-4e17-a791-8d03a40b9d81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\dynamic_programming">
+      <UniqueIdentifier>{d5e242cd-a55d-47c7-b537-f9ee1761b59e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\divide_conquer">
+      <UniqueIdentifier>{40bcabd0-764a-43a0-94a7-b095a7db007c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\backtracking">
+      <UniqueIdentifier>{275f54d3-ad11-4fba-be84-189c0ba345cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\branch_and_bound">
+      <UniqueIdentifier>{d5fa2fc6-143a-4bba-bb42-26f642b21267}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="prim.h">
+      <Filter>Header Files\greedy_method</Filter>
+    </ClInclude>
+    <ClInclude Include="krukal.h">
+      <Filter>Header Files\greedy_method</Filter>
+    </ClInclude>
+    <ClInclude Include="tourist_man.h">
+      <Filter>Header Files\greedy_method</Filter>
+    </ClInclude>
+    <ClInclude Include="dijkstra.h">
+      <Filter>Header Files\greedy_method</Filter>
+    </ClInclude>
+    <ClInclude Include="binary_search.h">
+      <Filter>Header Files\divide_conquer</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Header Files\divide_conquer</Filter>
+    </ClInclude>
+    <ClInclude Include="merge_sort.h">
+      <Filter>Header Files\divide_conquer</Filter>
+    </ClInclude>
+    <ClInclude Include="quick_sort.h">
+      <Filter>Header Files\divide_conquer</Filter>
+    </ClInclude>
+    <ClInclude Include="sub_sequence.h">
+      <Filter>Header Files\divide_conquer</Filter>
+    </ClInclude>
+    <ClInclude Include="swap_elements_of_array.h">
+      <Filter>Header Files\divide_conquer</Filter>
+    </ClInclude>
+    <ClInclude Include="knapsnack.h">
+      <Filter>Header Files\greedy_method</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

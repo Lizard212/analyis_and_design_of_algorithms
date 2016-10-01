@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\tp\onedrive\git\analyis_and_design_of_algorithms\algorithms\algorithms\common.h(7): warning C4101: 'i': unreferenced local variable
+c:\users\tp\onedrive\git\analyis_and_design_of_algorithms\algorithms\algorithms\swap_elements_of_array.h(11): warning C4101: 'i': unreferenced local variable
+  algorithms.vcxproj -> C:\Users\TP\OneDrive\git\analyis_and_design_of_algorithms\algorithms\Debug\algorithms.exe
+  algorithms.vcxproj -> C:\Users\TP\OneDrive\git\analyis_and_design_of_algorithms\algorithms\Debug\algorithms.pdb (Partial PDB)
